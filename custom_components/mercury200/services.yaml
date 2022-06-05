@@ -3,7 +3,7 @@ submit_command:
   fields:
     device_id:
       description: Serial number of the Mercury200.02
-      example: "04023330"
+      example: "11266559"
     command:
       description: Request ID
       example: "get_status"
